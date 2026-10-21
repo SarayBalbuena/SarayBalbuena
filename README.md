@@ -29,6 +29,7 @@ A full-stack app for tracking indoor skydiving (wind tunnel) flight time: indivi
 
 - **[music-displayer](https://github.com/SarayBalbuena/music-displayer)**: Angular music manager running against a mock iTunes-style API. You can list, view, add, edit and delete songs.
 - **[item-manager](https://github.com/SarayBalbuena/item-manager)**: Angular app for searching and sorting items and saving favorites.
+- **[tfg-plantilla](https://github.com/SarayBalbuena/tfg-plantilla)**: My final degree project (TFG), an interactive wiki for *Tsubasa Reservoir Chronicle* with character, world and manga/anime timelines. Built with Jekyll and Bootstrap. [Live site](https://saraybalbuena.github.io/tfg-plantilla/)
 - **[React-Itunes](https://github.com/SarayBalbuena/React-Itunes)**: A React app built on the iTunes catalog.
 
 ---
